@@ -5,11 +5,10 @@
   "main": "index.html",
   "scripts": {
     "build": "echo 'Build complete - static files ready'",
-    "start": "vite preview --port 8000",
-    "dev": "vite --port 8000"
+    "start": "vite preview --port 8000 --host",
+    "dev": "vite --port 8000 --host"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "type": "module",
   "keywords": [
     "cryptocurrency",
     "web3",
