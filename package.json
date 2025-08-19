@@ -15,5 +15,8 @@
     "tehbag"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
 }
